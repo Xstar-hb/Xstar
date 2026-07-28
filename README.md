@@ -1,4 +1,4 @@
-# Blog Title :link: https://Xstear.github.io/Xstar 
+# Blog Title :link: https://Xstar.github.io/Xstar 
 ### :page_facing_up: [0](https://Xstar.github.io/Xstar/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
